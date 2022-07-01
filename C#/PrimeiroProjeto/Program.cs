@@ -9,6 +9,11 @@ namespace PrimeiroProjeto
          ContaCorrente conta_01 = new ContaCorrente("Nicollas",1234,2004,25000);
          ContaCorrente conta_02 = new ContaCorrente("Renatim",22,2005,-80);
          ContaCorrente conta_03 = new ContaCorrente("Igor",209,2006,250);
+
+
+
+         sacar_conta = conta_01.Sacar(400);
+        
         //    conta_01.Titular = "Nicollas";
         //    conta_01.Agencia = 1234;
         //    conta_01.Numero = 2004;

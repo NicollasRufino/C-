@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Desktop\\C#\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
+    "C:\\Users\\Alunos\\Desktop\\C-\\C#\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Desktop\\C#\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\C-\\C#\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\C#\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\C-\\C#\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
         "projectName": "PrimeiroProjeto",
-        "projectPath": "C:\\Users\\Alunos\\Desktop\\C#\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\C-\\C#\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Desktop\\C#\\PrimeiroProjeto\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\C-\\C#\\PrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
