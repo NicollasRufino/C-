@@ -15,11 +15,11 @@
          }
 
          public bool Sacar(double valorSaque){
-          if (this Saldo >= valorSaque ){
-            this Saldo = Saldo - valorSaque;
-            return true
+          if (this.Saldo >= valorSaque ){
+            this.Saldo = this.Saldo - valorSaque;
+            return true;
           }
-          return false
+          return false;
 
          }
          
